@@ -11,13 +11,7 @@ def combine(lst):
         merger.append(pdf)
 
     merger.write("Super.pdf")
-    
-
-
-
-
-
-
+   
 
 combine(inputs)
 
